@@ -1,0 +1,63 @@
+body {
+  background-color: red;
+}
+
+#container {
+  width: 1080px;
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #DDDDDD;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#top-bar {
+  height: 145px;
+  background-image: url(images/Top-Bar.png);
+  background-repeat: no-repeat;
+}
+
+#username {
+  text-align: center;
+}
+
+#follower-count {
+  height: 355px;
+  background-image: url(images/Follower-Count.png);
+}
+
+#profile-picture { 
+  height: 255px;
+  width: 255px;
+  border-radius: 50%;
+  margin-left: 59px;
+  margin-top: 53px;
+  float: left;
+ }
+
+#photo-bar {
+  height:140px;
+  background-image: url(images/Photo-Bar.png)
+}
+
+img {
+  width:33%;
+  height: 350px;
+}
+
+#bottom-bar {
+  height: 135px;
+  background-image: url(images/Bottom-Bar.png)
+}
+
+p {
+  font-family: Arial;
+}
+
+#username {
+  text-align: center;
+  padding: 25px;
+  
+}
